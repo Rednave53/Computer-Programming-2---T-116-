@@ -1,7 +1,0 @@
-Student Name: Evander P. Vallejera
-Student ID Number: 2101103236
-Math Grade: 90
-Science Grade: 90
-English Grade: 90
-Total Grade: 270.00
-Average Grade: 90.00
